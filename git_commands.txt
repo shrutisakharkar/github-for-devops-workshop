@@ -1,0 +1,11 @@
+	git --version
+	git init
+	git add <File name>
+	git rm --cache <File name>
+	git add <Filenamr>
+	git commit -m "New file added"
+    git status
+    git  remote set-url origin https://PAT@github.com/shrutisakharkar/github-for-devops-workshop.git
+    git push origin main
+    git remote -v
+    
