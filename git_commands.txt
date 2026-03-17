@@ -9,3 +9,4 @@
     git push origin main
     git remote -v
     are you mad?
+   git branch 
